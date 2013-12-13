@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Saftlab_Hotvape>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Saftlab_Hotvape>
+    </modules>
+</config>
